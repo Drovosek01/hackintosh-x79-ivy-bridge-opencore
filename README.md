@@ -1,5 +1,7 @@
 # Хакинтош на x79 с процессором Ivy Bridge
 
+![Monterey-12.6.1-neofetch](./images/Monterey-12.6.1-neofetch.png)
+
 Язык: Русский | [English](english-version.md)
 
 ## Содержание:
